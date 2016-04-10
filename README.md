@@ -3,7 +3,7 @@
 ## Description
 An application to help online learners find e-learning courses, based on state-of-the-art recommender algorithm.
 
-## Documentation: 
+## APIs Documentation: 
 https://docs.google.com/spreadsheets/d/1MJc-czKGSrXcBhLaSk2gnUj2tQGQOtmqxQxsrAql8hA/edit#gid=0
 
 ## Server side:
