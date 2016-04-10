@@ -26,7 +26,7 @@ Using a clean, maintainable MVP software architecture for Android application.
 
 ## Third party libraries used in project 
 + Server side :
-  + Alike: A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances
+  + Alike: A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances https://github.com/axiomzen/Alike
 
 + Client side :
   + https://github.com/blipinsk/RecyclerViewHeader
